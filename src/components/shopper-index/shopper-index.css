@@ -1,0 +1,14 @@
+nav{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+nav:hover{
+    color: rgb(250, 71, 86);
+}
+
+#logo{
+    color: rgb(250, 71, 86);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
